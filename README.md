@@ -6,7 +6,7 @@
 ![Image](https://cdn.discordapp.com/attachments/1148622219396796559/1170377604428222576/image.png?ex=6558d215&is=65465d15&hm=506b5aedfefba6837ee7bd35e8bb88730f823dce93bb83757a975d201a400522&)
 
 ## **Feature**
-- ใข้งานง่าย ด้วย python และ json
+- ใช้งานง่าย ด้วย python และ json
 - มีระบบจัดการกับข้อผิดพลาด
 - ปรับแต่งได้ตามต้องการ รูปแบบ : source code
 
