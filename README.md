@@ -1,6 +1,10 @@
 # BOT VERIFY SLASHCOMMAND
 > บอทรับยศ ด้วย slash command
 
+![Image](https://cdn.discordapp.com/attachments/1148622219396796559/1170377224092922038/image.png?ex=6558d1ba&is=65465cba&hm=3244ec0bf2eb0b77e18a988df8693b9ea9355a8378077f6fa41b58b09dfefd69&)
+
+![Image](https://cdn.discordapp.com/attachments/1148622219396796559/1170377604428222576/image.png?ex=6558d215&is=65465d15&hm=506b5aedfefba6837ee7bd35e8bb88730f823dce93bb83757a975d201a400522&)
+
 ## **Feature**
 - ใข้งานง่าย ด้วย python และ json
 - มีระบบจัดการกับข้อผิดพลาด
